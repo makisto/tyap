@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TYAP-CursWork\bin\Debug\TYAP-CursWork.exe.config
+C:\Users\user\source\repos\TYAP-CursWork\bin\Debug\TYAP-CursWork.exe
+C:\Users\user\source\repos\TYAP-CursWork\bin\Debug\TYAP-CursWork.pdb
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP-CursWork.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP_CursWork.Form1.resources
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP_CursWork.Properties.Resources.resources
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP-CursWork.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP-CursWork.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP-CursWork.exe
+C:\Users\user\source\repos\TYAP-CursWork\obj\Debug\TYAP-CursWork.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\TYAP-Lab1\bin\Debug\TYAP-Lab1.exe.config
+C:\Users\user\source\repos\TYAP-Lab1\bin\Debug\TYAP-Lab1.exe
+C:\Users\user\source\repos\TYAP-Lab1\bin\Debug\TYAP-Lab1.pdb
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP_Lab1.Form1.resources
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP_Lab1.Properties.Resources.resources
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP-Lab1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP-Lab1.exe
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP-Lab1.pdb
+C:\Users\user\source\repos\TYAP-Lab1\obj\Debug\TYAP-Lab1.csprojAssemblyReference.cache
